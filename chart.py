@@ -9,7 +9,7 @@ def plot_chart(data_map, total_alert_count, chart_title):
             # monitors_map['others'] = monitors_map.get('others', 0) + monitors_map[key]
             del data_map[key]
 
-    monitors_map = dict(sorted(data_map.items(), key=lambda item: item[1], reverse=True))
+    data_map = dict(sorted(data_map.items(), key=lambda item: item[1], reverse=True))
 
     # Data to plot
     labels = []
