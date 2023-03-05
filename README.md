@@ -14,8 +14,6 @@ It shows a pie chart distribution of the alerts grouped by monitor or facet. The
 
 1. Download the CSV File from Opsgenie 
 
-<img width="1405" alt="Screenshot 2023-03-05 at 17 21 07" src="https://user-images.githubusercontent.com/89913154/222972650-3bf3a163-3f4e-43dc-90a6-7626448826d9.png">
-
 2. Git Clone Repo.
 
 3. Run command ```pip install -r requirements.txt``` from root.
