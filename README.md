@@ -40,7 +40,7 @@ Output
 
 
 
-### Group By Monitor
+### Group By Facets
 
 ```
 $ python main.py ~/Downloads/finalAlertData.csv
